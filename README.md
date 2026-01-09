@@ -5,4 +5,6 @@ Exemple d'hébergemennt de site statique avec gitHub pages
 -Utiliser gitLab Pages
 
 URL d'hébergement
-url :
+url github : https://zipoulou.github.io/eul106/
+url hosting : https://galzy1.hosting.unilim.fr/uel106/
+
